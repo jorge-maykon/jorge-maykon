@@ -50,6 +50,8 @@
   <img align="center" alt="Lipe-MSqlServer" height="30" width="30" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
 </div>-->
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jorge-maykon&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div> 
   <h2>Contatos</h2>
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
@@ -60,7 +62,8 @@
   <a href="https://www.linkedin.com/in/filipepaulocs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <h2>Contribuições</h2>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jorge-maykon&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+
   
 <!--  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake-dark.svg">
