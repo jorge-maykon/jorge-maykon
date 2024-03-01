@@ -6,6 +6,8 @@
 > - 📚 Estudando : MVC 
 > - ❤️ When cod Working!
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jorge-maykon&bg_color=e2e7eb&color=8000ff&line=000000&point=0d7116&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 <h2>Status</h2>
 <div align="center" style="display: inline_block">
