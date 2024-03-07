@@ -4,7 +4,7 @@
 > - 🖥️ Bacharel em Sistemas de Informação
 > - 💡 Can we speaking about ideia?
 > - 📚 Estudando : MVC 
-> - ❤️ When cod Working!
+> - ❤️ When the cod Working!
 
 
 
