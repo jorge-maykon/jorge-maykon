@@ -1,6 +1,6 @@
 <h1>👋 <i>Jorge Maykon</i></h1>
 
-> - 🎓 Formações : JAVA, Mysql, HTML, CSS, 
+> - 🎓 Formações : JAVA, Mysql, HTML, CSS
 > - 🖥️ Bacharel em Sistemas de Informação
 > - 💡 Can we speaking about ideia?
 > - 📚 Estudando : MVC 
