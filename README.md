@@ -1,9 +1,9 @@
 <h1>👋 <i>Jorge Maykon</i></h1>
 
-> - 🎓 Formações : JAVA, Mysql, HTML, CSS
+> - 🎓 Formações : JAVA, MySQL, HTML5, CSS3
 > - 🖥️ Bacharel em Sistemas de Informação
-> - 💡 Can we speaking about ideia?
-> - 📚 Estudando : MVC 
+> - 💡 Can we talk about ideas?
+> - 📚 Estudanda : UI and Python 
 > - ❤️ When the cod Working!
 
 
