@@ -23,6 +23,8 @@
  <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/769394667531534386/1078083434158772294/hero_12_img.png?width=676&height=676"><!--https://cdn.discordapp.com/attachments/432013031606583306/1018724347722076170/8083256.png-->
 
   <h2>*Skills</h2>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+  
 <div style="display: inline_block">
   <!--
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
