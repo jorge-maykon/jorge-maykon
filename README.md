@@ -1,7 +1,7 @@
 <h1>👋 <i>Jorge Maykon</i></h1>
 
 > - 🎓 Linguages: JAVA, MySQL, HTML5, CSS3
-> - 🖥️ Bacharel em Sistemas de Informação
+> - 🖥️ Bachelor in Information Systems
 > - 💡 Can we talk about a new idea?
 > - 📚 Studying : Microservices and Python 
 
