@@ -1,8 +1,8 @@
 <h1>👋 <i>Jorge Maykon</i></h1>
 
-> - 🎓 Linguages: JAVA, MySQL, Python, HTML5, CSS3
+> - 🎓 Linguages: JAVA,PHP, MySQL, Python, JS, HTML5, CSS3 Bootstrap, Laravel
 > - 🖥️ Bachelor in Information Systems
-> - 💡 Can we talk about a new idea?
+> - 💡 Predição
 > - 📚 Studying : Microservices and Python 
 
 <br>
