@@ -3,7 +3,7 @@
 > - 🎓 Linguages: JAVA,PHP, MySQL, Python, JS, HTML5, CSS3 Bootstrap, Laravel
 > - 🖥️ Bachelor in Information Systems
 > - 💡 Predição
-> - 📚 Studying : Microservices and Python 
+> - 📚 Studying : Microservices and Arquitetura
 
 <br>
  <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/769394667531534386/1078083434158772294/hero_12_img.png?width=676&height=676"><!--https://cdn.discordapp.com/attachments/432013031606583306/1018724347722076170/8083256.png-->
